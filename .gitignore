@@ -1,0 +1,4 @@
+**/tsconfig.tsbuildinfo
+**/*.d.ts
+**/*.js
+node_modules

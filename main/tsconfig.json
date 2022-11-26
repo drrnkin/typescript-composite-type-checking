@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		"lib": [
+			"dom",
+			"dom.iterable",
+			"esnext"
+		],
+		"allowSyntheticDefaultImports": true,
+		"strict": true,
+		"composite": true
+	},
+	"include": [
+		"*.ts"
+	],
+	"references": [
+		{
+				"path": "../child/"
+		},
+	]
+}

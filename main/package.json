@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "dependencies": {
+    "typescript": "^4.9.3"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "tsc -b",
+    "execute": "node main.js"
+  }
+}

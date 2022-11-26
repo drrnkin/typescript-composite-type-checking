@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "oldjquery": "yarn add -D @types/jquery@2",
+    "newjquery": "yarn add -D @types/jquery"
+  },
+  "dependencies": {
+    "typescript": "^4.9.3"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/jquery": "^3.5.14"
+  }
+}
